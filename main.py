@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Enhanced Company Data Scraper with AI Integration
-Includes specialized scraping methods and AI-assisted data extraction
-"""
-
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
