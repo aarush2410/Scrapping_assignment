@@ -78,7 +78,7 @@ pip install -r requirements.txt
 Run the scraper with default settings:
 
 ```bash
-python enhanced_company_scraper.py
+python main.py
 ```
 
 ### Programmatic Usage
